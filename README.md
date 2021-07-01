@@ -1,8 +1,8 @@
 # config
 Personal config files.
 
-#.zshrc
+# .zshrc
 Contains my zsh prompt + zsh settings.
 
-#.Xresources
+# .Xresources
 Contains urxvt-unicode config. I use the Nord color scheme and JetBrains Mono as my font.
